@@ -1,0 +1,9 @@
+{
+  "backend": "foo backend",
+  "snake_length": 1,
+  "board_width": 1,
+  "board_height": 1,
+  "game_over_reward": -42,
+  "ate_food_reward": 42,
+  "snake_moved_reward": -3
+}

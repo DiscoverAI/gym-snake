@@ -1,0 +1,9 @@
+{
+  "backend": "http://localhost:8080",
+  "snake_length": 3,
+  "board_width": 15,
+  "board_height": 15,
+  "game_over_reward": -100,
+  "ate_food_reward": 100,
+  "snake_moved_reward": -1
+}

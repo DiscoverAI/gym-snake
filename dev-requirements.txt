@@ -1,0 +1,4 @@
+pytest
+tensorflow
+keras
+keras-rl
